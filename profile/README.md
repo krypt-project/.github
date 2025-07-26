@@ -45,8 +45,7 @@ You can help us improve MindVault !
 ## 📚 Resources
 
 - 📘 [Documentation](https://github.com/mindvault-org/mindvault-docs)
-- 🛠️ [Issue Tracker](https://github.com/SOON)
-- 🧠 [Roadmap & Trello Board](SOON)
+- 🧠 [Roadmap & Trello Board](https://trello.com/invite/b/6884cb57f6273011c180fd73/ATTIa4f800322564d051733ae5a4b8c95b941E14D1F1/mindvault)
 
 ---
 
