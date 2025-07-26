@@ -22,10 +22,10 @@ This GitHub organization hosts the following main repositories:
 
 | Repo                  | Description                                      |
 |-----------------------|--------------------------------------------------|
-| [`mindvault-frontend`](https://github.com/SOON) | Frontend web app (Next.js + TailwindCSS + TypeScript) |
-| [`mindvault-backend`](https://github.com/SOON)  | Java Spring Boot REST API & database (PostgreSQL)     |
-| [`mindvault-ai`](https://github.com/SOON)       | AI/ML services: text embeddings, LLMs, RAG, etc.      |
-| [`mindvault-docs`](https://github.com/SOON)     | Documentation, architecture, API specs, guides        |
+| [`mindvault-frontend`](https://github.com/mindvault-org/mindvault-frontend) | Frontend web app (Next.js + TailwindCSS + TypeScript) |
+| [`mindvault-backend`](https://github.com/mindvault-org/mindvault-backend)  | Java Spring Boot REST API & database (PostgreSQL)     |
+| [`mindvault-ai`](https://github.com/mindvault-org/mindvault-ai)       | AI/ML services: text embeddings, LLMs, RAG, etc.      |
+| [`mindvault-docs`](https://github.com/mindvault-org/mindvault-docs)     | Documentation, architecture, API specs, guides        |
 
 ---
 
@@ -44,7 +44,7 @@ You can help us improve MindVault !
 
 ## 📚 Resources
 
-- 📘 [Documentation](https://github.com/SOON)
+- 📘 [Documentation](https://github.com/mindvault-org/mindvault-docs)
 - 🛠️ [Issue Tracker](https://github.com/SOON)
 - 🧠 [Roadmap & Trello Board](SOON)
 
