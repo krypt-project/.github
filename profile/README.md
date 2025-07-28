@@ -51,7 +51,12 @@ You can help us improve MindVault !
 
 ## 🤝 License
 
-MindVault is [MIT licensed](SOON) - open and free for all.
+MindVault is licensed under the **MindVault Collaborative Source License (MCSL) v1.0** —  
+the source code is available for collaboration and review, but all rights are reserved by the project maintainer.  
+
+You may view, modify, and contribute to the project, but redistribution, commercial use, and public forking are prohibited without explicit permission.  
+
+See the LICENSE file for full details.
 
 ---
 
