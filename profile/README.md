@@ -14,6 +14,8 @@ MindVault is a web-based application designed to help users:
 
 Inspired by tools like **Obsidian** and **Notion**, MindVault adds a powerful AI layer - and remains **free and open-source**.
 
+#### [View demo here](https://mindvault-ia.vercel.app/)
+
 ---
 
 ## 📂 Repositories
