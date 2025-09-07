@@ -25,10 +25,10 @@ This GitHub organization hosts the following main repositories:
 
 | Repo                  | Description                                      |
 |-----------------------|--------------------------------------------------|
-| [`krypt-frontend`](https://github.com/krypt-org/krypt-frontend) | Frontend web app (Next.js + TailwindCSS + TypeScript) |
-| [`krypt-backend`](https://github.com/krypt-org/krypt-backend)  | Java Spring Boot REST API & database (PostgreSQL)     |
-| [`krypt-ai`](https://github.com/krypt-org/krypt-ai)       | AI/ML services: text embeddings, LLMs, RAG, etc.      |
-| [`krypt-docs`](https://github.com/krypt-org/krypt-docs)     | Documentation, architecture, API specs, guides        |
+| [`krypt-frontend`](https://github.com/krypt-project/krypt-frontend) | Frontend web app (Next.js + TailwindCSS + TypeScript) |
+| [`krypt-backend`](https://github.com/krypt-project/krypt-backend)  | Java Spring Boot REST API & database (PostgreSQL)     |
+| [`krypt-ai`](https://github.com/krypt-project/krypt-ai)       | AI/ML services: text embeddings, LLMs, RAG, etc.      |
+| [`krypt-docs`](https://github.com/krypt-project/krypt-docs)     | Documentation, architecture, API specs, guides        |
 
 ---
 
@@ -47,7 +47,7 @@ Please contact the project maintainer for access to contribute, report bugs, or 
 
 ## Resources
 
-- [Documentation](https://github.com/krypt-org/krypt-docs)
+- [Documentation](https://github.com/krypt-project/krypt-docs)
 - [Roadmap & Projects](https://github.com/orgs/krypt-project/projects/1)
 
 ---
