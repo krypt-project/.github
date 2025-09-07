@@ -1,18 +1,19 @@
 # Welcome to KRYPT
 
-**KRYPT** (*Keep Recording Your Plans and Thoughts*) is an open-source initiative to build an intelligent, AI-augmented knowledge management web app — your personal second brain, reimagined.
+**KRYPT** (*Keep Recording Your Plans and Thoughts*) is a knowledge management web application with AI-augmented functionalities — your personal second brain, reimagined.
 
 ---
 
 ## What is KRYPT ?
 
 KRYPT is a web-based application designed to help users:
+
 - Organize and structure their thoughts, notes, and research.
 - Use modern AI tools (summarization, tagging, semantic search, RAG, etc.) to enrich and retrieve knowledge.
-- Connect ideas across documents using powerful embeddings and vector search.
-- Stay in control of their data, with a self-hostable and privacy-focused setup.
+- Connect ideas across documents using embeddings and vector search.
+- Stay in control of their data with a self-hostable, privacy-focused setup.
 
-Inspired by tools like **Obsidian** and **Notion**, KRYPT adds a powerful AI layer — and remains **free and open-source**.
+Inspired by tools like **Obsidian** and **Notion**, KRYPT adds a powerful AI layer — but it is **proprietary software** and is **not freely reusable or redistributable**.
 
 #### [View demo here](https://krypt-ai.vercel.app/)
 
@@ -33,13 +34,13 @@ This GitHub organization hosts the following main repositories:
 
 ## Get Involved
 
-We welcome all contributions, from bug reports and feature requests to pull requests.  
-You can help us improve KRYPT!
+We welcome contributions from trusted collaborators.  
+Please contact the project maintainer for access to contribute, report bugs, or request features.
 
 ### Tech Stack
 - **Frontend**: Next.js, Tailwind CSS, TypeScript
 - **Backend**: Java + Spring Boot
-- **AI Services**: Java + Spring Boot
+- **AI Services**: Python + Hugging Face + Flask
 - **Database**: PostgreSQL + pgvector
 
 ---
@@ -47,16 +48,19 @@ You can help us improve KRYPT!
 ## Resources
 
 - [Documentation](https://github.com/krypt-org/krypt-docs)
-- [Roadmap & Trello Board](https://github.com/orgs/krypt-project/projects/1)
+- [Roadmap & Projects](https://github.com/orgs/krypt-project/projects/1)
 
 ---
 
 ## License
 
-KRYPT is licensed under the **KRYPT Collaborative Source License (KCSL) v1.0** —  
-the source code is available for collaboration and review, but all rights are reserved by the project maintainer.  
+KRYPT is **proprietary software**.  
 
-You may view, modify, and contribute to the project, but redistribution, commercial use, and public forking are prohibited without explicit permission.  
+All rights are reserved by the project maintainer.  
+
+- You may **view** the source code for reference and collaboration purposes.  
+- You **may not redistribute, copy, modify, or use it commercially** without explicit permission.  
+- Public forks, commercial use, or redistribution are strictly prohibited.
 
 See the LICENSE file for full details.
 
@@ -64,4 +68,4 @@ See the LICENSE file for full details.
 
 ## Fun Fact
 
-We’re building a second brain — but it’s your **first real assistant**.
+We’re building a second brain — but it’s your **first real AI assistant**.
