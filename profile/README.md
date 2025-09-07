@@ -4,7 +4,7 @@
 
 ---
 
-## What is KRYPT?
+## What is KRYPT ?
 
 KRYPT is a web-based application designed to help users:
 - Organize and structure their thoughts, notes, and research.
@@ -47,7 +47,7 @@ You can help us improve KRYPT!
 ## Resources
 
 - [Documentation](https://github.com/krypt-org/krypt-docs)
-- [Roadmap & Trello Board](https://trello.com/invite/b/6884cb57f6273011c180fd73/ATTIa4f800322564d051733ae5a4b8c95b941E14D1F1/krypt)
+- [Roadmap & Trello Board](https://github.com/orgs/krypt-project/projects/1)
 
 ---
 
