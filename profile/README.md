@@ -14,7 +14,7 @@ KRYPT is a web-based application designed to help users:
 
 Inspired by tools like **Obsidian** and **Notion**, KRYPT adds a powerful AI layer — and remains **free and open-source**.
 
-#### [View demo here](https://krypt-ia.vercel.app/)
+#### [View demo here](https://krypt.vercel.app/)
 
 ---
 
